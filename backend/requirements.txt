@@ -1,0 +1,9 @@
+flask
+pillow
+google-genai
+pymongo
+python-dotenv
+PyJWT
+gradio_client
+trimesh
+flask-cors
