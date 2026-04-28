@@ -14,7 +14,7 @@ import trimesh
 # INIT
 # -------------------------------
 diamond_bp = Blueprint("diamond_bp", __name__)
-os.environ["HF_TOKEN"] = "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"
+os.environ["HF_TOKEN"] = ""
 OUTPUT_FOLDER = "processed_images"
 MODEL_FOLDER = "database/models"
 
